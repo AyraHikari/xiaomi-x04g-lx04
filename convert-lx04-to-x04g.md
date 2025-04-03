@@ -4,6 +4,11 @@
 
 ### `--noreconnect` is required for windows, no need for linux
 
+## Tools:
+1. [Download GongChengROM]](https://xiaoai.qgmzmy.me/d/lx04/rom/%E5%B7%A5%E7%A8%8Brom/GongChengROM.zip?sign=XUYpVHg_ulRWQxfyrwZo-RZP0H-T70XXk7jV9n3OkHA=:0)
+2. Hikaru_resign-Xiaomi
+
+## Guide:
 1. Flash GongChengROM with FlashTool
 ![image](https://github.com/user-attachments/assets/870fe5e8-da0a-43ce-b372-e8645a4f824e)
 
