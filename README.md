@@ -1,0 +1,1 @@
+# This is my guide for Mi Smart Clock
