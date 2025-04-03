@@ -12,7 +12,7 @@
 
 # Guide:
 
-## 1. **Flash gpt_x04g.bin**  
+## 1. **Flash gpt_lx04.bin**  
    Run the command:  
    `python3 mtk.py wf gpt.bin --noreconnect`  
    ![image](https://github.com/user-attachments/assets/56cb3164-a6d8-4d74-a709-0b957f3a0bec)
