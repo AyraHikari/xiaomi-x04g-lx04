@@ -25,15 +25,21 @@ Don't worry it wont broken, it just missing driver and we don't need display dri
 ![image](https://github.com/user-attachments/assets/3e30ab9f-058a-4a79-b38e-98fb241acd82)
 
 4. Unplug and open mtkclient, backup nvram
+![image](https://github.com/user-attachments/assets/4c5a7601-9ae9-4c0a-a453-4d367fd557e2)
 
-8. Flash gpt.bin from dump_mico_x04g.tar.xz
+5. Flash gpt.bin from dump_mico_x04g.tar.xz
 `python3 mtk.py wf gpt.bin --noreconnect`
+![image](https://github.com/user-attachments/assets/56cb3164-a6d8-4d74-a709-0b957f3a0bec)
 
-9. Flash all dump_mico_x04g.tar.xz
+6. Flash all dump_mico_x04g.tar.xz (if there's an error, ignore it)
 `python3 mtk.py wl --preloader preloader_mico_x04g.bin --noreconnect global`
+![image](https://github.com/user-attachments/assets/30a4b45a-0f31-4aaa-9b22-65f20963fc15)
+![image](https://github.com/user-attachments/assets/d15a0c81-d501-4904-a735-4c6300359304)
 
-10. Flash boot1_for_microx04g.bin in mtkclient GUI
+7. Flash boot1_for_microx04g.bin in mtkclient GUI
+![image](https://github.com/user-attachments/assets/0ece596a-861f-440e-9529-13f7a5a9eb9c)
+![image](https://github.com/user-attachments/assets/05bff5e2-27af-41dc-b083-dba256c97f0d)
 
-11. Restore nvram.bin in mtkclient
+8. Restore nvram.bin in mtkclient
 
-12. Reboot and enjoy
+9. Reboot and enjoy
