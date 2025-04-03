@@ -14,7 +14,9 @@
 # Guide:
 
 ## 1. **Flash GongChengROM with FlashTool**  
+   Set all path to same to the screenshot
    ![image](https://github.com/user-attachments/assets/870fe5e8-da0a-43ce-b372-e8645a4f824e)  
+   
    If you booted it on the latest batch, it may glitch.  
    Don’t worry, it won’t break. It's just missing a driver, and we don’t need the display driver to rewrite the MAC.
    <img src="https://github.com/user-attachments/assets/4730eb94-54ba-4236-bef7-24e65e36323b" alt="image" width="300"/>
@@ -23,7 +25,7 @@
    ![image](https://github.com/user-attachments/assets/b644ffb7-0f60-4d22-a00c-6f3f098c8348)  
    ![image](https://github.com/user-attachments/assets/e298eaeb-f7f1-457f-90b5-6ed44fff81b8)
 
-## 3. **Click Start and Write Your Bluetooth and Wi-Fi MAC Address**  
+## 3. **Click Start, Write Your Bluetooth and Wi-Fi MAC Address and then Plug device to PC**  
    Ensure the addresses are similar but with different digits in the last two positions.  
    ![image](https://github.com/user-attachments/assets/3e30ab9f-058a-4a79-b38e-98fb241acd82)
 
