@@ -42,14 +42,16 @@
    ![image](https://github.com/user-attachments/assets/30a4b45a-0f31-4aaa-9b22-65f20963fc15)  
    ![image](https://github.com/user-attachments/assets/d15a0c81-d501-4904-a735-4c6300359304)
 
-## 7. **Flash boot1_for_microx04g.bin in mtkclient GUI**  
-   ![image](https://github.com/user-attachments/assets/0ece596a-861f-440e-9529-13f7a5a9eb9c)  
+## 7. **Flash boot1_for_microx04g.bin to preloader in mtkclient GUI**  
+   ![image](https://github.com/user-attachments/assets/22a25a20-4e75-4526-af3d-17f58907f0a7)
    ![image](https://github.com/user-attachments/assets/05bff5e2-27af-41dc-b083-dba256c97f0d)
 
 ## 8. **Restore nvram.bin in mtkclient**
+   ![image](https://github.com/user-attachments/assets/6df82029-1e9e-4803-957f-3459794c3ad9)
+   ![image](https://github.com/user-attachments/assets/586400ad-fca3-4828-8916-521bcadb29e5)
 
 ## 9 **Format data**
    `python3 mtk.py e metadata,userdata,md_udc,cache --noreconnect`
    ![image](https://github.com/user-attachments/assets/5bf251a7-af9b-406a-96d3-4ae8bec16cf7)
 
-## 9. **Reboot and Enjoy!**
+## 9. **Replug to reboot and Enjoy!**
