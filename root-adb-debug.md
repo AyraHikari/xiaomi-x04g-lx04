@@ -6,11 +6,9 @@
 # Guide:
 
 ## 1. **Unlock bootloader first**  
-   Run the command:  
-   `python3 mtk.py wf gpt.bin --noreconnect`  
-   ![image](https://github.com/user-attachments/assets/56cb3164-a6d8-4d74-a709-0b957f3a0bec)
+   ![image](https://github.com/user-attachments/assets/55056f3b-0ad0-4f5f-aac3-5b914da49cee)
 
 ## 2. **Flash boot_global_magisk.bin to boot**  
-   ![image](https://github.com/user-attachments/assets/9800ed60-7ccd-42ca-ab05-8ade2f6ca409)
+   ![image](https://github.com/user-attachments/assets/b2ce9290-4e66-4351-97db-6116f8e893e7)
 
 ## 3. Reboot
