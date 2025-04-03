@@ -5,8 +5,9 @@
 ### `--noreconnect` is required for windows, no need for linux
 
 ## Tools:
-1. [Download GongChengROM]](https://xiaoai.qgmzmy.me/d/lx04/rom/%E5%B7%A5%E7%A8%8Brom/GongChengROM.zip?sign=XUYpVHg_ulRWQxfyrwZo-RZP0H-T70XXk7jV9n3OkHA=:0)
-2. Hikaru_resign-Xiaomi
+1. [Download GongChengROM](https://xiaoai.qgmzmy.me/d/lx04/rom/%E5%B7%A5%E7%A8%8Brom/GongChengROM.zip?sign=XUYpVHg_ulRWQxfyrwZo-RZP0H-T70XXk7jV9n3OkHA=:0)
+2. [SP Flash Tool](https://spflashtool.com/download/)
+3. [Hikaru_resign-Xiaomi](https://github.com/AyraHikari/xiaomi-x04g-lx04/blob/main/Hikaru_resign-Xiaomi.7z)
 
 ## Guide:
 1. Flash GongChengROM with FlashTool
