@@ -48,4 +48,8 @@
 
 ## 8. **Restore nvram.bin in mtkclient**
 
+## 9 **Format data**
+   `python3 mtk.py e metadata,userdata,md_udc,cache --noreconnect`
+   ![image](https://github.com/user-attachments/assets/5bf251a7-af9b-406a-96d3-4ae8bec16cf7)
+
 ## 9. **Reboot and Enjoy!**
