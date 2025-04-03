@@ -8,6 +8,7 @@
 1. [Download GongChengROM](https://xiaoai.qgmzmy.me/d/lx04/rom/%E5%B7%A5%E7%A8%8Brom/GongChengROM.zip?sign=XUYpVHg_ulRWQxfyrwZo-RZP0H-T70XXk7jV9n3OkHA=:0)
 2. [SP Flash Tool](https://spflashtool.com/download/)
 3. [Hikaru_resign-Xiaomi](https://github.com/AyraHikari/xiaomi-x04g-lx04/blob/main/Hikaru_resign-Xiaomi.7z)
+4. gpt_x04g.bin
 
 # Guide:
 
@@ -28,7 +29,7 @@
 ## 4. **Unplug and Open mtkclient, Backup nvram**  
    ![image](https://github.com/user-attachments/assets/4c5a7601-9ae9-4c0a-a453-4d367fd557e2)
 
-## 5. **Flash gpt.bin from dump_mico_x04g.tar.xz**  
+## 5. **Flash gpt_x04g.bin**  
    Run the command:  
    `python3 mtk.py wf gpt.bin --noreconnect`  
    ![image](https://github.com/user-attachments/assets/56cb3164-a6d8-4d74-a709-0b957f3a0bec)
