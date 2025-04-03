@@ -48,8 +48,8 @@
    ![image](https://github.com/user-attachments/assets/22a25a20-4e75-4526-af3d-17f58907f0a7)
    ![image](https://github.com/user-attachments/assets/05bff5e2-27af-41dc-b083-dba256c97f0d)
 
-## 8. **Restore nvram.bin in mtkclient**
-   ![image](https://github.com/user-attachments/assets/6df82029-1e9e-4803-957f-3459794c3ad9)
+## 8. **Restore nvram.bin from GongChengROM backup, and proinfo.bin from first backup in mtkclient**
+   ![image](https://github.com/user-attachments/assets/a90ec6ea-4385-44fe-9e23-b1b02fc38c5d)
    ![image](https://github.com/user-attachments/assets/586400ad-fca3-4828-8916-521bcadb29e5)
 
 ## 9. **Replug to reboot and Enjoy!**
