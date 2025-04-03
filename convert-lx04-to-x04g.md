@@ -50,8 +50,4 @@
    ![image](https://github.com/user-attachments/assets/6df82029-1e9e-4803-957f-3459794c3ad9)
    ![image](https://github.com/user-attachments/assets/586400ad-fca3-4828-8916-521bcadb29e5)
 
-## 9 **Format data**
-   `python3 mtk.py e metadata,userdata,md_udc,cache --noreconnect`
-   ![image](https://github.com/user-attachments/assets/5bf251a7-af9b-406a-96d3-4ae8bec16cf7)
-
 ## 9. **Replug to reboot and Enjoy!**
