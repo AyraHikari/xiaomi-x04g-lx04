@@ -10,6 +10,7 @@
 3. [SP Flash Tool](https://spflashtool.com/download/)
 4. [Hikaru_resign-Xiaomi](https://github.com/AyraHikari/xiaomi-x04g-lx04/blob/main/Hikaru_resign-Xiaomi.7z)
 5. [gpt_x04g.bin](https://github.com/AyraHikari/xiaomi-x04g-lx04/blob/main/files/gpt_x04g.bin)
+6. [boot1_for_microx04g.bin](https://github.com/AyraHikari/xiaomi-x04g-lx04/blob/main/files/boot1_for_microx04g.bin)
 
 # Guide:
 
